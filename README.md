@@ -4,5 +4,5 @@ Each pane has a unique background color and connected to a server by ssh.
 
 ### Install
 
-copy tmux4.sh to ~/bin/ or other place. Make sure it is in $PATH.
+copy tmux4 to ~/bin/ or other place. Make sure it is in $PATH.
 
